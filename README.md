@@ -1,4 +1,4 @@
-#arketing Campaign Performance Analysis (BigQuery + SQL)
+***Marketing Campaign Performance Analysis (BigQuery + SQL)***
 
 Project Overview
 This project analyzes digital marketing campaign performance using BigQuery and advanced SQL techniques. It focuses on key metrics like CTR, CPC, and ROI, and provides insights into campaign effectiveness across platforms, regions, and time periods.
